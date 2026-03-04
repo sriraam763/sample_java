@@ -2,9 +2,9 @@ public class Test {
 
   static void add(){
 
-    int a=50;
-    int b=10;
-    int result = a-b;
+    int a=48;
+    int b=65;
+    int result = a+b;
     System.out.println("The sum is " +result);
     
   }
